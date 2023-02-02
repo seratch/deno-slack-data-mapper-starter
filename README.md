@@ -4,7 +4,7 @@
 
 You can generate a new project using this template by the following command:
 
-````bash
+```bash
 slack create data-mapper-app -t seratch/deno-slack-data-mapper-starter
 cd ./data-mapper-app
 ```
