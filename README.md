@@ -13,7 +13,7 @@ Run its dev app in a terminal first:
 
 ```bash
 slack run
-````
+```
 
 And then, you can generate a webhook trigger in a different terminal, and run
 the workflow via the URL:
